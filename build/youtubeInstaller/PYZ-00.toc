@@ -1,4 +1,4 @@
-('C:\\Users\\pcerk\\OneDrive\\Masaüstü\\Python Youtube '
+('C:\\Users\\pcerk\\OneDrive\\Masaüstü\\Github\\Python Youtube '
  'Dowload\\build\\youtubeInstaller\\PYZ-00.pyz',
  [('Cryptodome',
    'C:\\Users\\pcerk\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Cryptodome\\__init__.py',
